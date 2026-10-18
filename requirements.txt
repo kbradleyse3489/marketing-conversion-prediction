@@ -1,0 +1,10 @@
+# Tested analysis environment: Python 3.12.14
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+# Notebook viewer/execution dependencies
+notebook>=7,<8
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6,<8
